@@ -25,6 +25,6 @@ _Fig: Output shows bounding box around detected objects, with class labels and t
 - The best performing model was picked to perform further analysis
 - Achieved an accuracy of 76.5% and an F1-score of 0.8
 
-![](/images/rocauc%20comp.png)
+![](https://github.com/kumarapurv/Kumar-Portfolio/blob/main/images/rocauc%20comp.png)
 
 _Fig: ROC - AUC of several Machine Learning Models used_
