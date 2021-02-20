@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to Kumar's Portfolio
 
-You can use the [editor on GitHub](https://github.com/kumarapurv/Kumar-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here's a sneak peek into some of my works
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project 1: [Computer Vision Solutions for Perception in Small Autonomous Racecar Systems](https://github.com/kumarapurv/Object-Detection-and-Depth-Sensing-for-a-Small-Autonomous-Racecar-System)
+- Built the Racecar's platform using `Nvidia Jetson TX2` as the processing unit and `ZED Stereo Camera` as visual input
+- Developed perception algorithm in `Python 2` using `Robot Operating System (ROS)`
+- Object detection in racecar's environment using `YOLO v3`
+- Distance estimation of these objects using stereo camera parameters
+- Forwarded the perception data to the master controller of the ROS node (to perform the next steps, i.e., planning and control of the racecar)
+- The algorithm was designed to perform high-speed calculations and work in real-time
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kumarapurv/Kumar-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Output shows bounding box around detected objects, with class labels and their estimated distance (in meters) on top](https://github.com/kumarapurv/Object-Detection-and-Depth-Sensing-for-a-Small-Autonomous-Racecar-System/blob/main/demo/output_1.gif)
