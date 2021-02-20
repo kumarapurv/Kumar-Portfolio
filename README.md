@@ -10,7 +10,9 @@ Here's a sneak peek into some of my works
 - Forwarded the perception data to the master controller of the ROS node (to perform the next steps, i.e., planning and control of the racecar)
 - The algorithm was designed to perform high-speed calculations and work in real-time
 
-![Output shows bounding box around detected objects, with class labels and their estimated distance (in meters) on top](/images/output_1.gif)
+![](/images/output_1.gif)
+
+_Fig: Output shows bounding box around detected objects, with class labels and their estimated distance (in meters) on top_
 
 ## Project 2: [Sentiment Analysis on Twitter Data](https://github.com/kumarapurv/Sentiment-Analysis-on-Twitter-Dataset-using-Machine-Learning-)
 - Determined the emotional coloring of twits (a positive or negative sentiment) using various Machine Learning models
@@ -23,4 +25,6 @@ Here's a sneak peek into some of my works
 - The best performing model was picked to perform further analysis
 - Achieved an accuracy of 76.5% and an F1-score of 0.8
 
-![ROC - AUC of several Machine Learning Models used](/images/rocauc%20comp.png)
+![](/images/rocauc%20comp.png)
+
+_Fig: ROC - AUC of several Machine Learning Models used_
