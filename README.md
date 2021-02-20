@@ -27,4 +27,4 @@ _Fig: Output shows bounding box around detected objects, with class labels and t
 
 ![](https://github.com/kumarapurv/Kumar-Portfolio/blob/main/images/rocauc%20comp.png)
 
-_Fig: ROC - AUC of several Machine Learning Models used_
+_Fig: ROC - AUC of all Machine Learning Models used_
